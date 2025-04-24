@@ -1,6 +1,4 @@
-Perfeito, Michael! Aqui está o conteúdo do `README.md` **100% contínuo**, pronto para você clicar em "Copiar" e colar direto no GitHub, sem quebras nem separações:
 
----
 
 # Wine Quality Dashboard  
 Dashboard interativo construído com [Streamlit](https://streamlit.io/) para explorar as características químicas de vinhos tintos e brancos, com base em dados públicos. Através de filtros e visualizações gráficas, o usuário pode investigar como diferentes variáveis se relacionam com a qualidade do vinho.
